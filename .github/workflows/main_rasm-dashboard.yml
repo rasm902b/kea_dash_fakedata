@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'rasm-dashboard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C89595B6D8A453A983C61A2900531C7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01AE53FDD5FE4A95867650AE2A29F4B4 }}
